@@ -7,3 +7,7 @@ DOMAIN,xxx.notebooklm.com
 DOMAIN-SUFFIX,notebooklm.com
 DOMAIN,xxx.notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google
+
+DOMAIN,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google.com
+
