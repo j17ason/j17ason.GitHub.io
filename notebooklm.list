@@ -5,3 +5,5 @@ USER-AGENT,notebooklm*
 DOMAIN-KEYWORD,notebooklm
 DOMAIN,xxx.notebooklm.com
 DOMAIN-SUFFIX,notebooklm.com
+DOMAIN,xxx.notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google
